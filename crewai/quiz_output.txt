@@ -1,0 +1,14 @@
+Q1: What is Machine Learning?
+A1: Machine Learning enables computers to learn patterns from data.
+
+Q2: What is training data?
+A2: Training data is the information used to teach the model.
+
+Q3: What is a model?
+A3: A model is an algorithm trained to make predictions from data.
+
+Q4: What is overfitting?
+A4: Overfitting happens when a model learns the training data too closely and fails on new data.
+
+Q5: What is a neural network?
+A5: A neural network is a set of algorithms modeled loosely after the human brain to recognize patterns.
